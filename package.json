@@ -1,0 +1,6 @@
+{
+  "name": "test-mssql",
+  "version": "0.1.0",
+  "description": "Kyma Sample App - mssql",
+  "private": true
+}
